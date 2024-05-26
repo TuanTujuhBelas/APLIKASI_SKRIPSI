@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tflite_image_classification/view/music/kerissolo.dart';
+import 'package:APLIKASI_SKRIPSI/view/music/kerissolo.dart';
 import './music/golok.dart';
 import './music/celurit.dart';
 import './music/kujang.dart';

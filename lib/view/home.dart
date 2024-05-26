@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tflite_image_classification/view/about.dart';
+import 'package:APLIKASI_SKRIPSI/view/about.dart';
 
 class homeScreen extends StatefulWidget {
   const homeScreen({Key? key}) : super(key: key);

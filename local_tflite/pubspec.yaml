@@ -1,0 +1,16 @@
+name: tflite
+description: TensorFlow Lite plugin for Flutter
+
+dependencies:
+  fflutter:
+    sdk: flutter
+    cupertino_icons: ^1.0.2
+    tflite:
+      path: ./local_tflite
+  # other dependencies if any
+
+# Flutter specific configuration
+flutter:
+  plugin:
+    androidPackage: com.example.tflite
+    pluginClass: TflitePlugin
